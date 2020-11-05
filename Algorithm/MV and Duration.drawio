@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T09:27:16.818Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="KMY0u8dU2u4Im_XDmMS5" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T09:30:14.156Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Qj5S5NF21tLk-wbZ5c6J" version="12.9.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="SIirOtEVYk1fui6E42ct-1" value="$$ DirtyPrice = \sum_{i=1}^n CF_i \times DF_i $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="140" width="330" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="SIirOtEVYk1fui6E42ct-0" value="&lt;h1&gt;Dirty Price&lt;/h1&gt;&lt;p&gt;计算给定债券的当前价格（全价）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="40" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SIirOtEVYk1fui6E42ct-1" value="$$ DirtyPrice = \sum_{i=1}^n CF_i \times DF_i $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="140" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
